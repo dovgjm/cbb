@@ -11,7 +11,7 @@
 	  <version name="1.0" author="dovgjm">
 		<changelog>
 		</changelog>
-		<source main="main" file='CBB.lua'>CBB.lua</source>
+		<source main="main" file='https://github.com/dovgjm/cbb/blob/main/CBB.lua'>CBB.lua</source>
 		</version>
 	  
 	</reapack>
