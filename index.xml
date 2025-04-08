@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="dovgjm Scripts">
+  <category name="Film Scoring">
+    <reapack name="CBB" type="script" desc="Cues, Bars and Beats">
+	  <metadata>
+		<description>
+			
+		</description>
+		
+	  </metadata>
+	  <version name="1.0" author="dovgjm">
+		<changelog>
+		</changelog>
+		<source main="main" file='cbb.lua'>cbb.lua</source>
+		</version>
+	  
+	</reapack>
+  </category>
+</index>
